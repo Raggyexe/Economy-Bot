@@ -434,4 +434,4 @@ for filename in os.listdir('./cogs'):
         client.load_extension(f'cogs.{filename[:-3]}')
 
 
-client.run('Token')
+client.run('ODg2NDA2MDAxMzg4MDMyMDAw.YT1H6w._KpwIv3wy_NZuOI3ea5WUQawcuo')
